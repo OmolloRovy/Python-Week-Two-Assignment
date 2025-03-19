@@ -32,4 +32,4 @@ The `main.py` script performs the following operations on a Python list:
     python main.py
     ```
 
-## Example Output
+
