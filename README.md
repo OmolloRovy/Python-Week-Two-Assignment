@@ -31,5 +31,3 @@ The `main.py` script performs the following operations on a Python list:
     ```bash
     python main.py
     ```
-
-
